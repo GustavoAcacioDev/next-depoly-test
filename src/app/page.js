@@ -17,9 +17,8 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/vercel.svg"
+              src="https://poc-next-images.s3.amazonaws.com/Images/pesado.png"
               alt="Vercel Logo"
-              className="dark:invert"
               width={100}
               height={24}
               priority
